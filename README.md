@@ -11,7 +11,7 @@ This project delivers a visually stunning and modern bakery website for “Velve
 
 - ChatGPT (Prompt Engineering)
 - GitHub
-- VS Code
+- Lovable Ai
 
 ## 🛠️ Core Features Developed
 
